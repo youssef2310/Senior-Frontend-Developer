@@ -20,14 +20,14 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/youssef-mahgoub-86814b166/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/youssef-mahgoub-86814b166/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Mahgoub-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Angular](https://www.google.com/url?sa=i&url=https%3A%2F%2Fangular.io%2Fpresskit&psig=AOvVaw1BPOkgR51JojHP8X4_uUL5&ust=1682644779032000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi3vrTyyP4CFQAAAAAdAAAAABAE)
-![Ionic](https://www.google.com/url?sa=i&url=https%3A%2F%2Fionicacademy.com%2Fionic-logo-portrait%2F&psig=AOvVaw0BgZytstqk1-BeE-_W_JS6&ust=1682644827730000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLioks3yyP4CFQAAAAAdAAAAABAE)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+![Ionic]((https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
